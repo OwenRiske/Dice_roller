@@ -1,9 +1,11 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class rollDice {
     Random rand = new Random();
+
 
 
 
